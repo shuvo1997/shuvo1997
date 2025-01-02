@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shovon Karmaker
 =======================================================================================================================================
 
-Software Engineer
+Software Engineer @ Brain Station 23 PLC
 -----------------
 
 Experienced Mobile Application Developer with 2 years of experience designing and developing high-quality mobile applications for the Fintech industry. Skilled in Swift, Dart and Java, with a strong understanding of the UIKit and SwiftUI SDK and experience working with RESTful APIs. Passionate about delivering exceptional user experience and continually staying up to date with the latest mobile technologies. Open to new opportunities and eager to join a dynamic team in creating innovative and impactful mobile solutions. Also, I am exploring the possibilities of using AI to build mobile applications. It can have a major impact on delivering projects faster and easier, making projects adhere to high code quality. Language: Swift, Java, Dart Framework: UIKit, SwiftUI, MapKit, PDFKit, CoreData, Django, Firebase cloud messaging, Firebase real-time push notification, Crashlytics, Supabase, Amazon Amplify I'm, Full-Time: Coder Part-Time: Finding ways to make things easier
